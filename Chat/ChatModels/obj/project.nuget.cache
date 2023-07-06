@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "v4PZz4OfAU8peA1s6yYj9+RwtnHlSdsWU7Xj9vc5cMGLYGsyqZTp2fq7ZZhvztPZNYbZBFqWsbbWPCCUjpleCQ==",
+  "success": true,
+  "projectFilePath": "V:\\ProjectsOnC#\\Chat\\ChatModels\\ChatModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\fody\\6.6.4\\fody.6.6.4.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\propertychanged.fody\\4.1.0\\propertychanged.fody.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

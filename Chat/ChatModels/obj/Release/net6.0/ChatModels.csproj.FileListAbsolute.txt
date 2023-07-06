@@ -1,0 +1,12 @@
+V:\ProjectsOnC#\Chat\ChatModels\bin\Release\net6.0\ChatModels.deps.json
+V:\ProjectsOnC#\Chat\ChatModels\bin\Release\net6.0\ChatModels.dll
+V:\ProjectsOnC#\Chat\ChatModels\bin\Release\net6.0\ChatModels.pdb
+V:\ProjectsOnC#\Chat\ChatModels\obj\Release\net6.0\ChatModels.csproj.AssemblyReference.cache
+V:\ProjectsOnC#\Chat\ChatModels\obj\Release\net6.0\ChatModels.GeneratedMSBuildEditorConfig.editorconfig
+V:\ProjectsOnC#\Chat\ChatModels\obj\Release\net6.0\ChatModels.AssemblyInfoInputs.cache
+V:\ProjectsOnC#\Chat\ChatModels\obj\Release\net6.0\ChatModels.AssemblyInfo.cs
+V:\ProjectsOnC#\Chat\ChatModels\obj\Release\net6.0\ChatModels.csproj.CoreCompileInputs.cache
+V:\ProjectsOnC#\Chat\ChatModels\obj\Release\net6.0\ChatModels.dll
+V:\ProjectsOnC#\Chat\ChatModels\obj\Release\net6.0\refint\ChatModels.dll
+V:\ProjectsOnC#\Chat\ChatModels\obj\Release\net6.0\ChatModels.pdb
+V:\ProjectsOnC#\Chat\ChatModels\obj\Release\net6.0\ref\ChatModels.dll
